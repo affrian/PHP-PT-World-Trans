@@ -1,0 +1,45 @@
+
+/*css barang.php*/
+.pop_cari{
+	position:absolute;
+	/*margin-top:2px;*/
+	/*left:5;*/
+	color:#FFF;
+	min-width:350px;
+	height:200px; 
+	z-index:100;
+	background:#E60938;
+	/*padding:2px;*/
+	box-shadow:0 0 20px #33FF33;
+	border-radius:10px;
+	overflow:scroll;
+    display:none;
+    /*min-width: 50%;*/
+}
+
+.hover li:hover{
+	background-color:#2CF6F4;
+	border-radius: 5px;
+	cursor:default;
+}
+.hover{
+	list-style: none;
+	text-align:left;
+	padding: 3px;
+}
+
+
+/*index.php atau halaman_utama.php*/
+.border{
+	/* border:1px solid; */
+	height: 150px;
+	padding: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	/* border-color:none; */
+}
+.border a{
+	text-decoration: none;
+	color: black;
+}
