@@ -1,1 +1,1 @@
-# php-native-PT-World-Trans
+Sistem Informasi Servis Mobil (SISMO) PT. World Trans adalah sistem informasi untuk memanagement data bengkel dan servis di PT.World Trans baik dari segi transaksi pembelian barang, pemakaian barang dan servis dan yang diolah didalam sistem akan menghasilkan keluaran berupa laporan perbulan dari segi laporan pembelian barang, laporan penggunaan barang dan laporan sevis
